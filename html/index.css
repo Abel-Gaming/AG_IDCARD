@@ -1,0 +1,58 @@
+body {
+    background: none !important;
+}
+
+/* Container holding the image and the text */
+.container {
+  position: fixed;
+    top: 70%;
+    left: 75%;
+  text-align: center;
+}
+
+.weaponlicense {
+  position: fixed;
+    top: 70%;
+    left: 75%;
+  text-align: center;
+}
+
+/* Name text */
+.Name {
+  color: white;
+  position: fixed;
+    top: 75%;
+    left: 82.25%;
+  font-family: 'Oswald';
+  font-size: 25px;
+}
+
+/* Name weapon text */
+.NameWeapon {
+  color: white;
+  position: fixed;
+    top: 75%;
+    left: 82%;
+  font-family: 'Oswald';
+  font-size: 25px;
+}
+
+/* Signature text */
+.Signature {
+  color: white;
+  position: fixed;
+    top: 85%;
+    left: 82.5%;
+  font-family: 'The Nautigal', cursive;
+  font-size: 35px;
+}
+
+/* Signature weapon text */
+.SignatureWeapon {
+  color: white;
+  position: fixed;
+    top: 85%;
+    left: 82.5%;
+  font-family: 'The Nautigal', cursive;
+  font-size: 35px;
+}
